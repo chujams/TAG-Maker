@@ -1,0 +1,20 @@
+r room1
+d This is room one.
+o Go to room two.
+t room2
+o Go to room 3.
+t room3
+
+r room2
+d This is room two.
+o Go to room 3.
+t room3
+o Go to room one.
+t room1
+
+r room3
+d This is room three.
+o Go to room one.
+t room1
+o Go to room two.
+t room2

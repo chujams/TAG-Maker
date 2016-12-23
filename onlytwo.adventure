@@ -1,0 +1,25 @@
+r room1
+o go to 1a
+t room1a
+o go to 1b
+t room1b
+
+r room1a
+o go to 1a1
+t room1a1
+o go to 1a2
+t room1a2
+
+r room1b
+o go to 1a1
+t room1a1
+o go to 1a2
+t room1a2
+
+r room1a1
+o go to 1
+t room1
+
+r room 1a2
+o go to 1
+t room1
